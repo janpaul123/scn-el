@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  11/3/2008-15:48:03
+#
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP C
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP PIC16F628A
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F628
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+#End Doc Library

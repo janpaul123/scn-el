@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by Cvpcb (2007-02-16) date = 9/3/2008-12:59:16
+
+BeginCmp
+TimeStamp = 47D1DDDB;
+Reference = B1;
+ValeurCmp = 9V;
+IdModule  = BAT;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD85;
+Reference = C1;
+ValeurCmp = 68_nF;
+IdModule  = Cuni;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D3D38E;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D3D39E;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD74;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD79;
+Reference = R2;
+ValeurCmp = 8k2;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD7C;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD7F;
+Reference = R4;
+ValeurCmp = 22;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DD9E;
+Reference = SP1;
+ValeurCmp = 8_Ohm;
+IdModule  = SOUND;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DC00;
+Reference = T1;
+ValeurCmp = BC547;
+IdModule  = TRANSIST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47D1DC0B;
+Reference = T2;
+ValeurCmp = BC557;
+IdModule  = TRANSIST;
+EndCmp
+
+EndListe

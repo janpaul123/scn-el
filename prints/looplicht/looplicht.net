@@ -1,0 +1,192 @@
+# EESchema Netlist Version 1.1 created  11/3/2008-14:17:09
+(
+ ( 47D59E3B BAT BT1 BATTERY
+  ( 1 N-000002 )
+  ( 2 VSS )
+ )
+ ( 47D59E44 Cuni C1 100nF
+  ( 1 N-000021 )
+  ( 2 VSS )
+ )
+ ( 47D59E2D Cuni C2 100nF
+  ( 1 VDD )
+  ( 2 VSS )
+ )
+ ( 47D5A1D6 D D1 DIODE
+  ( 1 N-000002 )
+  ( 2 N-000021 )
+ )
+ ( 47D59CEE LED D2 LED
+  ( 1 N-000007 )
+  ( 2 VSS )
+ )
+ ( 47D59CF7 LED D3 LED
+  ( 1 N-000016 )
+  ( 2 VSS )
+ )
+ ( 47D59CFC LED D4 LED
+  ( 1 N-000006 )
+  ( 2 VSS )
+ )
+ ( 47D59CFE LED D5 LED
+  ( 1 N-000017 )
+  ( 2 VSS )
+ )
+ ( 47D59D01 LED D6 LED
+  ( 1 N-000005 )
+  ( 2 VSS )
+ )
+ ( 47D59D03 LED D7 LED
+  ( 1 N-000018 )
+  ( 2 VSS )
+ )
+ ( 47D59D07 LED D8 LED
+  ( 1 N-000004 )
+  ( 2 VSS )
+ )
+ ( 47D59D08 LED D9 LED
+  ( 1 N-000019 )
+  ( 2 VSS )
+ )
+ ( 47D59DB2 R R1 1k
+  ( 1 N-000001 )
+  ( 2 VSS )
+ )
+ ( 47D59DBA R R2 1k
+  ( 1 N-000022 )
+  ( 2 VSS )
+ )
+ ( 47D59CAA R R3 270R
+  ( 1 N-000007 )
+  ( 2 N-000012 )
+ )
+ ( 47D59CB3 R R4 270R
+  ( 1 N-000016 )
+  ( 2 N-000011 )
+ )
+ ( 47D59C7F R R5 270R
+  ( 1 N-000006 )
+  ( 2 N-000010 )
+ )
+ ( 47D59C86 R R6 270R
+  ( 1 N-000017 )
+  ( 2 N-000013 )
+ )
+ ( 47D59C8F R R7 270R
+  ( 1 N-000005 )
+  ( 2 N-000009 )
+ )
+ ( 47D59C9C R R8 270R
+  ( 1 N-000018 )
+  ( 2 N-000014 )
+ )
+ ( 47D59CA1 R R9 270R
+  ( 1 N-000004 )
+  ( 2 N-000008 )
+ )
+ ( 47D59CA7 R R10 270R
+  ( 1 N-000019 )
+  ( 2 N-000015 )
+ )
+ ( 47D59D80 PUSH SW1 SW_PUSH
+  ( 1 N-000001 )
+  ( 2 VDD )
+ )
+ ( 47D59D8D PUSH SW2 SW_PUSH
+  ( 1 N-000022 )
+  ( 2 VDD )
+ )
+ ( 47D5A1E7 7805 U1 7805
+  ( GND VSS )
+  ( VI N-000021 )
+  ( VO VDD )
+ )
+ ( 47D59B70 18DIP-ELL300 U2 PIC16F628A
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 VSS )
+  ( 6 N-000015 )
+  ( 7 N-000008 )
+  ( 8 N-000014 )
+  ( 9 N-000009 )
+  ( 10 N-000013 )
+  ( 11 N-000010 )
+  ( 12 N-000011 )
+  ( 13 N-000012 )
+  ( 14 VDD )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 N-000022 )
+  ( 18 N-000001 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

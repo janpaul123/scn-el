@@ -1,0 +1,75 @@
+# EESchema Netlist Version 1.1 created  9/3/2008-12:59:16
+(
+ ( 47D1DDDB BAT B1 9V
+  ( 1 N-000001 )
+  ( 2 N-000003 )
+ )
+ ( 47D1DD85 Cuni C1 68_nF
+  ( 1 N-000005 )
+  ( 2 N-000004 )
+ )
+ ( 47D3D38E PIN P1 CONN_1
+  ( 1 N-000004 )
+ )
+ ( 47D3D39E PIN P2 CONN_1
+  ( 1 N-000003 )
+ )
+ ( 47D1DD74 R R1 100k
+  ( 1 N-000001 )
+  ( 2 N-000004 )
+ )
+ ( 47D1DD79 R R2 8k2
+  ( 1 N-000004 )
+  ( 2 N-000003 )
+ )
+ ( 47D1DD7C R R3 1k
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+ )
+ ( 47D1DD7F R R4 22
+  ( 1 N-000005 )
+  ( 2 N-000003 )
+ )
+ ( 47D1DD9E SOUND SP1 8_Ohm
+  ( 1 N-000001 )
+  ( 2 N-000006 )
+ )
+ ( 47D1DC00 TRANSIST T1 BC547
+  ( 1 N-000003 )
+  ( 2 N-000004 )
+  ( 3 N-000002 )
+ )
+ ( 47D1DC0B TRANSIST T2 BC557
+  ( 1 N-000006 )
+  ( 2 N-000002 )
+  ( 3 N-000005 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ C?
+ SM*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

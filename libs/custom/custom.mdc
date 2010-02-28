@@ -1,0 +1,81 @@
+PCBNEW-LibDoc----V1  11/3/2008-14:16:47
+#
+$MODULE CONN_USB-B
+Li CONN_USB-B
+Cd Connecteur USB type B
+Kw USB
+$EndMODULE
+#
+$MODULE Cuni
+Li Cuni
+Cd Universal Capacitor
+Kw C UNI
+$EndMODULE
+#
+$MODULE CPstanding
+Li CPstanding
+Cd Condensateur polarise vertical
+Kw CP
+$EndMODULE
+#
+$MODULE TRANSIST
+Li TRANSIST
+Cd General Transistor (BC547/BC557)
+Kw Transistor BC547 BC557
+$EndMODULE
+#
+$MODULE R
+Li R
+Cd Resistor
+Kw R
+$EndMODULE
+#
+$MODULE WIRE
+Li WIRE
+Cd Wire hole
+Kw WIRE
+$EndMODULE
+#
+$MODULE SOUND
+Li SOUND
+Cd Sound speaker connector
+Kw SOUND SPEAKER WAVE CONN
+$EndMODULE
+#
+$MODULE BAT
+Li BAT
+Cd Battery clip connection
+Kw BAT BATTERY
+$EndMODULE
+#
+$MODULE PIN
+Li PIN
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+$EndMODULE
+#
+$MODULE PUSH
+Li PUSH
+Cd Resistor
+Kw R
+$EndMODULE
+#
+$MODULE D
+Li D
+Cd Diode
+Kw D, DIODE
+$EndMODULE
+#
+$MODULE 78L05
+Li 78L05
+Cd 78L05
+Kw 78L05
+$EndMODULE
+#
+$MODULE LED
+Li LED
+Cd LED Standing
+Kw LED
+$EndMODULE
+#
+$EndLIBDOC

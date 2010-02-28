@@ -1,0 +1,81 @@
+# EESchema Netlist Version 1.1 created  9/3/2008-10:55:04
+(
+ ( 47ADAAB7 BAT BT1 9V
+  ( 1 N-000008 )
+  ( 2 N-000001 )
+ )
+ ( 47ADAB26 CPstanding C1 4.7uF
+  ( 1 N-000005 )
+  ( 2 N-000002 )
+ )
+ ( 47ADAB59 CPstanding C2 4.7uF
+  ( 1 N-000003 )
+  ( 2 N-000004 )
+ )
+ ( 47ADAAEE LED D1 LED
+  ( 1 N-000006 )
+  ( 2 N-000005 )
+ )
+ ( 47ADAB82 LED D2 LED
+  ( 1 N-000007 )
+  ( 2 N-000003 )
+ )
+ ( 47ADAB0E TRANSIST Q1 BC547
+  ( 1 N-000001 )
+  ( 2 N-000004 )
+  ( 3 N-000005 )
+ )
+ ( 47ADAB6C TRANSIST Q2 BC547
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+  ( 3 N-000003 )
+ )
+ ( 47ADAAC9 R R1 330R
+  ( 1 N-000008 )
+  ( 2 N-000006 )
+ )
+ ( 47ADAADD R R2 330R
+  ( 1 N-000008 )
+  ( 2 N-000007 )
+ )
+ ( 47ADAAD3 R R3 47k
+  ( 1 N-000008 )
+  ( 2 N-000002 )
+ )
+ ( 47ADAAD9 R R4 47k
+  ( 1 N-000008 )
+  ( 2 N-000004 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}

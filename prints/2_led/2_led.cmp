@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by Cvpcb (2007-02-16) date = 9/3/2008-10:55:04
+
+BeginCmp
+TimeStamp = 47ADAAB7;
+Reference = BT1;
+ValeurCmp = 9V;
+IdModule  = BAT;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAB26;
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = CPstanding;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAB59;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = CPstanding;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAAEE;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAB82;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAB0E;
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = TRANSIST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAB6C;
+Reference = Q2;
+ValeurCmp = BC547;
+IdModule  = TRANSIST;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAAC9;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAADD;
+Reference = R2;
+ValeurCmp = 330R;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAAD3;
+Reference = R3;
+ValeurCmp = 47k;
+IdModule  = R;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ADAAD9;
+Reference = R4;
+ValeurCmp = 47k;
+IdModule  = R;
+EndCmp
+
+EndListe

@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0  9/3/2008-13:27:21
+#
+$CMP CP
+D Condensateur polarise
+$ENDCMP
+#
+$CMP NPN
+F transistors/bipolar/*.*
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+#End Doc Library
